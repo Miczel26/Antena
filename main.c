@@ -31,7 +31,7 @@ void PWM_inicjalizacja();
      
 int main(void)
 {
-	ADC_inicjalizacja();
+    ADC_inicjalizacja();
     PWM_inicjalizacja();
     
     DDRB = 0xff;		// Wyjścia
@@ -82,7 +82,7 @@ int main(void)
 
 void ADC_inicjalizacja()
 {
-	ADMUX=0x00;
+    ADMUX=0x00;
     ADCSRA=0xe7;
 }
 
