@@ -9,4 +9,4 @@ Aktualny stan programu:
    Sprawdzane jest za pomocą diód.
 
 -> Wysyłany jest sygnał PWM na odpowiednie piny.
-   Niestety, ze względu na niskie napięcie, silnik nie zostaje on wprawiony w ruch.
+   Niestety, ze względu na niskie napięcie, silnik nie zostaje wprawiony w ruch.
