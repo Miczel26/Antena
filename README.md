@@ -10,3 +10,5 @@ Aktualny stan programu:
 
 -> Wysyłany jest sygnał PWM na odpowiednie piny.
    Niestety, ze względu na niskie napięcie, silnik nie zostaje wprawiony w ruch.
+
+-> Ogarnąłem nieco dokumentacji, co by wszyscy mogli w miarę łatwo zrozumieć co i jak.
